@@ -41,3 +41,8 @@ const longMsg = () => (
 )
 
 console.log(longMsg());
+
+// direct return (), and you need return for {} brackets. 
+
+
+///// Materials from the lecture. 
