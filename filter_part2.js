@@ -76,3 +76,7 @@ let strongSkills1 = students.filter(hasSkills1);
 console.log(strongSkills1);
 
 // Note: always think about how arrow function is working here. 
+
+// Let's try Tutorail 3: find only name of the 
+
+
